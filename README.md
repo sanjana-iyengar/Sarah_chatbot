@@ -8,6 +8,7 @@ Using Artificial Intelligence and Natural Language Processing, our chatbot can s
 
 
 Features:
+
 A chatbot is an adaptive and easier way to gather information. They provide the end-users with a truly personalized experience as most of them prefer texting over any other means. Perhaps the best benefit is that bots are accessible day in and day out to help users. Also, they react rapidly to each address they get. This ensures the users generally tackle their issues, regardless of the season of the day.
 
 Based on the research of the problems that women are facing in the present day, we have filtered and listed a few of them. They include:
