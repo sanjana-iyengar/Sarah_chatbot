@@ -32,10 +32,12 @@ Accordingly, we have trained Sarah to respond to the users with relevant informa
 
 Tools and Technologies Used:
 
-Kaggle
+Kaggle:
+
 Personality development dataset  
 
-IBM Watson Assistant
+IBM Watson Assistant:
+
 It is a platform that enables us to build conversational interfaces. Watson Assistant uses machine learning and intent detection algorithms to understand how to answer end-user questions accurately. The Artificial Intelligence at the core of Watson Assistant is designed to correctly identify the countless permutations of intent in real-world interactions.  
 
 
@@ -50,35 +52,42 @@ Using the IBM Watson Assistant, all the queries that a user can ask have been lo
 Sarah greets you at first and displays all trained categories such as Women health, Women safety, Women harassment, Helplines, and other Questions.
 
 Example: Women health
+
 It has three categories namely Physical health, Mental health, and Sexual health. Physical health is again categorized into Periods, Cancer, and Pregnancy. Periods is further categorized into Irregular periods, PCOS, Period cramps, Heavy bleeding,and Vaginal dryness. When the user chooses selected options and reaches Irregular periods, the chatbot display information about irregular periods and few home remedies. 
 
 The same goes for all the other categories.
 
- Question: This category does not give users any options. The user is free to ask any question in these domains and the chatbot replies with what the user is facing, any information, and home remedies.
+Question: This category does not give users any options. The user is free to ask any question in these domains and the chatbot replies with what the user is facing, any information, and home remedies.
 
 Sarah also answers characteristic personality questions like:
+
 User: What is your gender?
+
 Sarah: Sigma female
  
 User: What can you eat
+
 Sarah: I consume RAM and binary digits.
  
 User: Tell me a joke  
+
 Sarah: A 3-legged dog walks into an old west saloon, slides up to the bar, and announces  "I'm looking for the man who shot my paw."
  
 
 The dialogues for the bot are acquired for Kaggle. An intent has multiple dialogues displayed at random. An example of the source code for developing the bot personality is in JSON format.
-Use case diagram:
- Use Case diagram for Sarah
-Flowchart:
-Workflow Diagram
 
 Use Sarah here: https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=aae5a605-efb4-4d02-a355-ecf2cf82ca53&serviceInstanceID=47142624-d693-4529-8407-45bb85629709
 
  As 70% of People in our country are literate, most of the women will have access to the internet and fundamental knowledge of using a chatbot. The majority of the women have been working late nights and are concerned about their safety due to the incidents happening out in the country. This chatbot provides information about SHE cabs, police station contacts, and many more helpline numbers at any time within an instant. This also works as a junior doctor for domains that may not be 100% accurate but it provides basic knowledge about the medical problems that women face.
+
 For future enhancements, we will include voice-based queries. The users will have to provide voice input and the system will give the text output. Adding to this, after the successful execution of chatbot in the health and safety domain, we are planning to expand into the medical domain and implement it in other domains like women's welfare, problems related to child protection, etc. It will be beneficial in all the fields as without spending much time, we are accessing the relevant information and that too without much sorting.  
+
+
 Project by:
+
 Harshitha Karnatakam
+
 Manasa Reddy
+
 Sanjana Alaham
                                                      
