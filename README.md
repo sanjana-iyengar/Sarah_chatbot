@@ -7,13 +7,13 @@ Sarah is a chatbot that is developed to provide information and suggestions rega
 Using Artificial Intelligence and Natural Language Processing, our chatbot can simulate conversation with a user through messaging applications and websites giving them accurate and relevant information.
 
 
-# # # Features:
+### Features:
 
 A chatbot is an adaptive and easier way to gather information. They provide the end-users with a truly personalized experience as most of them prefer texting over any other means. Perhaps the best benefit is that bots are accessible day in and day out to help users. Also, they react rapidly to each address they get. This ensures the users generally tackle their issues, regardless of the season of the day.
 
 Based on the research of the problems that women are facing in the present day, we have filtered and listed a few of them. They include:
 
-# # # Health:            
+### Health:            
 
 Menstrual cycle
 
@@ -25,7 +25,7 @@ Sexual problems
 
 Anxiety, Depression, Mood swings, PMDD, etc
 
-# # # Safety:
+### Safety:
 
 Sexual harassment at the workplace
 
@@ -44,7 +44,7 @@ Dowry demands, etc
 Accordingly, we have trained Sarah to respond to the users with relevant information and help them with their queries.
 
 
-# # Tools and Technologies Used:
+## Tools and Technologies Used:
 
 Kaggle:
 
@@ -55,13 +55,13 @@ IBM Watson Assistant:
 It is a platform that enables us to build conversational interfaces. Watson Assistant uses machine learning and intent detection algorithms to understand how to answer end-user questions accurately. The Artificial Intelligence at the core of Watson Assistant is designed to correctly identify the countless permutations of intent in real-world interactions.  
 
 
-# # # Required skillset to build the project set:
+### Required skillset to build the project set:
 Basic understanding about working of chatbots
 Natural Language Processing, Machine Learning  
 Usage of IBM Watson Assistant
 
 
-# # Implementation of the project:
+## Implementation of the project:
 Using the IBM Watson Assistant, all the queries that a user can ask have been loaded and grouped into different categories as Intents. Entities, as in synonyms, have been categorized based on the trained intents. Recognizing these entities in the intents, the deliveries, or Dialogues are trained to display to the user for related queries.
 Sarah greets you at first and displays all trained categories such as Women health, Women safety, Women harassment, Helplines, and other Questions.
 
@@ -97,7 +97,7 @@ Use Sarah here: https://web-chat.global.assistant.watson.cloud.ibm.com/preview.h
 For future enhancements, we will include voice-based queries. The users will have to provide voice input and the system will give the text output. Adding to this, after the successful execution of chatbot in the health and safety domain, we are planning to expand into the medical domain and implement it in other domains like women's welfare, problems related to child protection, etc. It will be beneficial in all the fields as without spending much time, we are accessing the relevant information and that too without much sorting.  
 
 
-# # Project by:
+## Project by:
 
 Harshitha Karnatakam
 
