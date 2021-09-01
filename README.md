@@ -92,16 +92,7 @@ The dialogues for the bot are acquired for Kaggle. An intent has multiple dialog
 
 Use Sarah here: https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=aae5a605-efb4-4d02-a355-ecf2cf82ca53&serviceInstanceID=47142624-d693-4529-8407-45bb85629709
 
- As 70% of People in our country are literate, most of the women will have access to the internet and fundamental knowledge of using a chatbot. The majority of the women have been working late nights and are concerned about their safety due to the incidents happening out in the country. This chatbot provides information about SHE cabs, police station contacts, and many more helpline numbers at any time within an instant. This also works as a junior doctor for domains that may not be 100% accurate but it provides basic knowledge about the medical problems that women face.
+As 70% of People in our country are literate, most of the women will have access to the internet and fundamental knowledge of using a chatbot. The majority of the women have been working late nights and are concerned about their safety due to the incidents happening out in the country. This chatbot provides information about SHE cabs, police station contacts, and many more helpline numbers at any time within an instant. This also works as a junior doctor for domains that may not be 100% accurate but it provides basic knowledge about the medical problems that women face.
 
 For future enhancements, we will include voice-based queries. The users will have to provide voice input and the system will give the text output. Adding to this, after the successful execution of chatbot in the health and safety domain, we are planning to expand into the medical domain and implement it in other domains like women's welfare, problems related to child protection, etc. It will be beneficial in all the fields as without spending much time, we are accessing the relevant information and that too without much sorting.  
-
-
-## Project by:
-
-Harshitha Karnatakam
-
-Manasa Reddy
-
-Sanjana Alaham
                                                      
