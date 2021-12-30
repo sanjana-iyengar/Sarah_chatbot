@@ -1,4 +1,4 @@
-# Sarah - A Chatbot for Womnen Health and Safety
+# Sarah - A Chatbot for Women Health and Safety
 
 ## Introduction:
 
