@@ -48,18 +48,20 @@ Accordingly, we have trained Sarah to respond to the users with relevant informa
 
 ## Tools and Technologies Used:
 
-Kaggle:
+#### Kaggle:
 
 Personality development dataset  
 
-IBM Watson Assistant:
+#### IBM Watson Assistant:
 
 It is a platform that enables us to build conversational interfaces. Watson Assistant uses machine learning and intent detection algorithms to understand how to answer end-user questions accurately. The Artificial Intelligence at the core of Watson Assistant is designed to correctly identify the countless permutations of intent in real-world interactions.  
 
 
 ### Required skillset to build the project set:
 Basic understanding about working of chatbots
+
 Natural Language Processing, Machine Learning  
+
 Usage of IBM Watson Assistant
 
 
